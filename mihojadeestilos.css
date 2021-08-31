@@ -1,0 +1,28 @@
+body {
+  background-color: greenyellow;
+}
+#cabeceraweb {
+  background-color: blueviolet;
+}
+#navegacionprincipal {
+  background-color: crimson;
+}
+#barralateral {
+  background-color: darkgreen;
+  float: left;
+  height: 915px; /* esta propiedad sirve para aumentar la altura del contenedor*/
+}
+#pie {
+  background-color: aqua;
+  clear: both;
+}
+#seccion {
+  background-color: aquamarine;
+  margin-left: 230px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+li {
+  background-color: yellow;
+  display: inline; /*para poner los elementos horizontalmente*/
+}
